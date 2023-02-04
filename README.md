@@ -1,2 +1,0 @@
-# test
-Testowania i nauka
